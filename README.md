@@ -13,3 +13,8 @@ The SmartWeaver Sandbox does not have a release schedule. It is currently underg
 URL: https://smartweaver.land/arweave/ao/roadmap.
 
 Use the link above to view this product's roadmap.
+
+### Issues
+
+- [Provide feedback](https://github.com/smartweaver/release/issues/new?title=feedback(sandbox):%20)
+- [Report a bug](https://github.com/smartweaver/release/issues/new?title=bug(sandbox):%20)
